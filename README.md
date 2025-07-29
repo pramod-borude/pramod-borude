@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pramod Borude
 
-### 🚀 Senior QA Engineer | Automation Enthusiast | Real-time Systems Explorer
+### 🚀 QA Lead | Manual & Automation Testing | Mobile, Web, API, Performance | Selenium, Python, Pytest, JMeter | CI/CD | Agile | Mentoring & Test Strategy
 
 Experienced QA Lead with 3.3+ years of expertise in manual and automation testing of complex distributed systems across domains such as traffic monitoring, edge computing, and real-time alerting. Adept at building scalable test automation frameworks using Selenium WebDriver (JAVA), TestNG, and RestAssured, while executing thorough API and UI test scenarios. Proficient in integrating QA efforts into CI/CD pipelines (Jenkins, GitLab) and driving quality early through Agile, TDD, and BDD (Cucumber) practices. Strong communicator and proactive collaborator with development and business teams. Currently working with Java, TestNG, and Maven to align with modern enterprise testing stacks.
 
