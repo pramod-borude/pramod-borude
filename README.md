@@ -8,11 +8,12 @@ I'm a passionate QA Engineer with over 3.3 years of experience in automation and
 
 ## 🧰 Tech Stack & Tools
 
-- **Languages**: Python, JavaScript, Bash
-- **Frameworks/Tools**: Selenium, Pytest, Requests, FastAPI
+- **Languages**: Python, Java
+- **Frameworks/Tools**: Selenium WebDriver (POM), Postman, RestAssured, Apache JMeter, Pytest, TestNG, Maven
 - **Test Management**: TestRail, Jira
-- **CI/CD**: GitHub Actions, Jenkins, Docker
-- **Databases**: MySQL, SQLite
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD, Docker
+- **Version Control**: Git, GitHub, GitLab
+- **Project & Test Management**: JIRA, Trello, Agile Methodology, Test Data Management
 - **Others**: REST APIs, WebSocket, Postman, Linux, Git
 
 ---
