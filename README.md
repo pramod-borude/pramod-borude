@@ -2,7 +2,7 @@
 
 ### 🚀 Senior QA Engineer | Automation Enthusiast | Real-time Systems Explorer
 
-I'm a passionate QA Engineer with over 3.3 years of experience in automation and manual testing. I love building scalable test automation frameworks, solving real-time testing challenges, and ensuring high-quality releases in fast-paced environments. My expertise lies in automation with Python, API testing, and CI/CD pipeline integrations.
+Experienced QA Lead with 3.3+ years of expertise in manual and automation testing of complex distributed systems across domains such as traffic monitoring, edge computing, and real-time alerting. Adept at building scalable test automation frameworks using Selenium WebDriver (JAVA), TestNG, and RestAssured, while executing thorough API and UI test scenarios. Proficient in integrating QA efforts into CI/CD pipelines (Jenkins, GitLab) and driving quality early through Agile, TDD, and BDD (Cucumber) practices. Strong communicator and proactive collaborator with development and business teams. Currently working with Java, TestNG, and Maven to align with modern enterprise testing stacks.
 
 ---
 
